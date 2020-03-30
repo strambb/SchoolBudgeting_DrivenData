@@ -1,0 +1,29 @@
+I.      Introduction
+            Topic: 
+                School Budgets problem from DrivenData.org
+                School budgets are huge, complex and non-standardized within the US
+                School want to measure their performance
+            Goal: 
+                Build Machine Learning Algorithm that automate the labeling of spendings
+            Data:
+                Line-Data with description:
+                like "Algebra books for 8th grade students"
+                Labels attached like: "Math", "Middle School", "Textbooks"
+            Type of the problem:
+                Supervised Learning Problem -> Using correct labeled data to predict the label of an unlabeled sample
+                predict the label -> Classification problem
+                predict the probability of each target variables possible value (logreg?)
+            Specials:
+                Over 100 target variables
+                9 columns with several possible Labels
+                predicting variable-value-probabilities via dummy variables
+            Exploring the data:
+                Loading dataset via:
+                
+
+
+
+II.
+III.
+IV.
+V.
